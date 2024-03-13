@@ -1,0 +1,671 @@
+[Thu Mar 16 14:11:55.540734 2023] [ssl:warn] [pid 9612:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:11:55.634800 2023] [ssl:warn] [pid 9612:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:11:55.703036 2023] [mpm_winnt:notice] [pid 9612:tid 608] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Mar 16 14:11:55.703036 2023] [mpm_winnt:notice] [pid 9612:tid 608] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Mar 16 14:11:55.703036 2023] [core:notice] [pid 9612:tid 608] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Mar 16 14:11:55.717499 2023] [mpm_winnt:notice] [pid 9612:tid 608] AH00418: Parent: Created child process 1444
+[Thu Mar 16 14:11:56.424116 2023] [ssl:warn] [pid 1444:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:11:56.488309 2023] [ssl:warn] [pid 1444:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:11:56.532674 2023] [mpm_winnt:notice] [pid 1444:tid 620] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 16 14:12:36.798368 2023] [ssl:warn] [pid 5256:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:12:36.892927 2023] [ssl:warn] [pid 5256:tid 660] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:12:36.957359 2023] [mpm_winnt:notice] [pid 5256:tid 660] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Mar 16 14:12:36.957359 2023] [mpm_winnt:notice] [pid 5256:tid 660] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Mar 16 14:12:36.957359 2023] [core:notice] [pid 5256:tid 660] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Mar 16 14:12:36.970406 2023] [mpm_winnt:notice] [pid 5256:tid 660] AH00418: Parent: Created child process 2284
+[Thu Mar 16 14:12:37.785025 2023] [ssl:warn] [pid 2284:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:12:37.858112 2023] [ssl:warn] [pid 2284:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Mar 16 14:12:37.923384 2023] [mpm_winnt:notice] [pid 2284:tid 672] AH00354: Child: Starting 150 worker threads.
+[Thu Mar 16 14:13:55.807160 2023] [mpm_winnt:crit] [pid 2284:tid 672] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Mar 18 10:19:22.737703 2023] [ssl:warn] [pid 3896:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:19:22.816696 2023] [core:warn] [pid 3896:tid 612] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 18 10:19:22.816696 2023] [ssl:warn] [pid 3896:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:19:23.357668 2023] [mpm_winnt:notice] [pid 3896:tid 612] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Mar 18 10:19:23.357668 2023] [mpm_winnt:notice] [pid 3896:tid 612] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Mar 18 10:19:23.357668 2023] [core:notice] [pid 3896:tid 612] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 18 10:19:23.363430 2023] [mpm_winnt:notice] [pid 3896:tid 612] AH00418: Parent: Created child process 5236
+[Sat Mar 18 10:19:24.048128 2023] [ssl:warn] [pid 5236:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:19:24.119080 2023] [ssl:warn] [pid 5236:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:19:24.221577 2023] [mpm_winnt:notice] [pid 5236:tid 428] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 18 10:30:46.490551 2023] [ssl:warn] [pid 10068:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:30:46.537419 2023] [core:warn] [pid 10068:tid 652] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 18 10:30:46.537419 2023] [ssl:warn] [pid 10068:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:30:46.553000 2023] [mpm_winnt:notice] [pid 10068:tid 652] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Mar 18 10:30:46.553000 2023] [mpm_winnt:notice] [pid 10068:tid 652] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Mar 18 10:30:46.553000 2023] [core:notice] [pid 10068:tid 652] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 18 10:30:46.563511 2023] [mpm_winnt:notice] [pid 10068:tid 652] AH00418: Parent: Created child process 10148
+[Sat Mar 18 10:30:47.088366 2023] [ssl:warn] [pid 10148:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:30:47.119039 2023] [ssl:warn] [pid 10148:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:30:47.134622 2023] [mpm_winnt:notice] [pid 10148:tid 604] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 18 10:31:02.046815 2023] [mpm_winnt:crit] [pid 10148:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Mar 18 10:31:18.627308 2023] [ssl:warn] [pid 2176:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:31:18.675821 2023] [core:warn] [pid 2176:tid 604] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 18 10:31:18.675821 2023] [ssl:warn] [pid 2176:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:31:18.691828 2023] [mpm_winnt:notice] [pid 2176:tid 604] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Mar 18 10:31:18.691828 2023] [mpm_winnt:notice] [pid 2176:tid 604] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Mar 18 10:31:18.691828 2023] [core:notice] [pid 2176:tid 604] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 18 10:31:18.707453 2023] [mpm_winnt:notice] [pid 2176:tid 604] AH00418: Parent: Created child process 7996
+[Sat Mar 18 10:31:19.127971 2023] [ssl:warn] [pid 7996:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:31:19.159216 2023] [ssl:warn] [pid 7996:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 10:31:19.190461 2023] [mpm_winnt:notice] [pid 7996:tid 612] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 18 10:35:57.864097 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:50371] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 10:36:43.847799 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:50388] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 10:37:03.332952 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:50414] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 10:39:00.967359 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:50441] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 11:08:57.138445 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:50583] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 11:09:27.952362 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:50595] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 11:10:53.928817 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54256] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/add_room.php
+[Sat Mar 18 11:11:39.509302 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54271] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 11:12:52.625979 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54304] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/add_exam.php
+[Sat Mar 18 11:13:01.159496 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54322] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 11:17:43.018137 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54455] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 11:18:41.902929 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54492] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/add_allotment.php
+[Sat Mar 18 11:19:14.107104 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54498] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/add_teacher.php
+[Sat Mar 18 11:19:40.208212 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54508] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 11:21:09.184663 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54542] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 11:23:52.512427 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54570] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 11:24:00.193439 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54582] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/edit_student.php?id=5
+[Sat Mar 18 11:24:08.286664 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54589] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/add_subject.php
+[Sat Mar 18 11:24:16.231397 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54594] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/add_subject.php
+[Sat Mar 18 11:24:28.831026 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54604] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 11:24:55.373016 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54612] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 11:26:23.099421 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54659] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 11:26:44.330042 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54674] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 11:27:02.903484 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54690] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 11:27:16.917108 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54704] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 11:29:59.753571 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54735] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/add_exam.php
+[Sat Mar 18 11:35:55.007177 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:54836] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 11:36:28.629278 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:54855] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 11:40:36.194233 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:64119] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/add_exam.php
+[Sat Mar 18 11:43:09.082473 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:51538] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 11:44:14.709368 2023] [php7:notice] [pid 7996:tid 1852] [client ::1:51562] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 11:46:35.435152 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:60664] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 11:55:09.525629 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:62770] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 11:55:09.547195 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:62770] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 11:55:16.333485 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:62771] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/add_teacher.php
+[Sat Mar 18 11:58:09.522232 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:62842] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 11:58:09.522232 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:62842] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 11:58:45.082021 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:62855] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 12:03:54.398306 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:63229] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 12:04:58.524265 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:63263] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/add_teacher.php
+[Sat Mar 18 12:05:12.281580 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:63269] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 12:05:31.302302 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:63275] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 12:06:28.183202 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:55241] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 12:07:47.601534 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:55258] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 12:08:34.769013 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55264] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 12:11:53.241385 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:55575] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 12:11:58.894637 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55578] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/allot.php
+[Sat Mar 18 12:12:03.408293 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55578] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 12:12:22.913059 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:55585] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/exam.php
+[Sat Mar 18 12:12:28.965093 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55874] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 12:13:38.091902 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55891] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 12:13:38.098999 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55891] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 12:13:52.962441 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:55892] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 12:14:16.086564 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55901] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 12:15:00.520341 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:55948] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 12:15:16.320689 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:55963] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 12:16:22.850281 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:57737] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 12:16:40.873556 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:57742] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 12:18:25.071430 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:57790] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 12:18:49.583196 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:58664] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 12:18:51.841337 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:58664] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/del_room.php?id=6
+[Sat Mar 18 12:18:56.732472 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:58664] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 12:18:58.638344 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:58664] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/del_room.php?id=7
+[Sat Mar 18 12:20:04.981978 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:58700] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 12:20:24.733701 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:58701] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 12:20:46.933267 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:58706] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 12:21:19.319634 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:58719] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 12:21:19.321140 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:58719] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 12:21:34.384637 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:58734] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 12:23:55.336069 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:57228] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 12:24:27.802934 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:57240] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/exam.php
+[Sat Mar 18 12:24:34.929660 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:57241] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 12:24:37.042640 2023] [php7:notice] [pid 7996:tid 1864] [client ::1:57241] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/del_exam.php?id=8
+[Sat Mar 18 12:25:28.900644 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:57263] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 12:25:28.900644 2023] [php7:notice] [pid 7996:tid 1848] [client ::1:57263] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 13:39:41.033135 2023] [ssl:warn] [pid 8532:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:39:41.108406 2023] [core:warn] [pid 8532:tid 596] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 18 13:39:41.112401 2023] [ssl:warn] [pid 8532:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:39:41.604016 2023] [mpm_winnt:notice] [pid 8532:tid 596] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Mar 18 13:39:41.604016 2023] [mpm_winnt:notice] [pid 8532:tid 596] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Mar 18 13:39:41.604016 2023] [core:notice] [pid 8532:tid 596] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 18 13:39:41.618089 2023] [mpm_winnt:notice] [pid 8532:tid 596] AH00418: Parent: Created child process 6912
+[Sat Mar 18 13:39:42.213582 2023] [ssl:warn] [pid 6912:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:39:42.307752 2023] [ssl:warn] [pid 6912:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:39:42.417321 2023] [mpm_winnt:notice] [pid 6912:tid 604] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 18 13:39:47.454111 2023] [mpm_winnt:crit] [pid 6912:tid 604] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Sat Mar 18 13:40:14.069222 2023] [ssl:warn] [pid 1884:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:40:14.142080 2023] [core:warn] [pid 1884:tid 612] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 18 13:40:14.142080 2023] [ssl:warn] [pid 1884:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:40:14.189002 2023] [mpm_winnt:notice] [pid 1884:tid 612] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Mar 18 13:40:14.189002 2023] [mpm_winnt:notice] [pid 1884:tid 612] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Mar 18 13:40:14.189002 2023] [core:notice] [pid 1884:tid 612] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 18 13:40:14.204575 2023] [mpm_winnt:notice] [pid 1884:tid 612] AH00418: Parent: Created child process 9932
+[Sat Mar 18 13:40:14.775365 2023] [ssl:warn] [pid 9932:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:40:14.842777 2023] [ssl:warn] [pid 9932:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:40:14.897049 2023] [mpm_winnt:notice] [pid 9932:tid 624] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 18 13:40:30.381658 2023] [php7:warn] [pid 9932:tid 1940] [client ::1:65361] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sat Mar 18 13:40:56.413006 2023] [php7:warn] [pid 9932:tid 1888] [client ::1:65362] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sat Mar 18 13:42:26.199232 2023] [ssl:warn] [pid 3140:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:42:26.262889 2023] [core:warn] [pid 3140:tid 656] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Mar 18 13:42:26.277399 2023] [ssl:warn] [pid 3140:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:42:26.356458 2023] [mpm_winnt:notice] [pid 3140:tid 656] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Mar 18 13:42:26.356458 2023] [mpm_winnt:notice] [pid 3140:tid 656] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Mar 18 13:42:26.356458 2023] [core:notice] [pid 3140:tid 656] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Mar 18 13:42:26.372091 2023] [mpm_winnt:notice] [pid 3140:tid 656] AH00418: Parent: Created child process 2800
+[Sat Mar 18 13:42:26.936117 2023] [ssl:warn] [pid 2800:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:42:26.997381 2023] [ssl:warn] [pid 2800:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Mar 18 13:42:27.060873 2023] [mpm_winnt:notice] [pid 2800:tid 448] AH00354: Child: Starting 150 worker threads.
+[Sat Mar 18 13:42:49.882357 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:65368] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 13:42:49.907122 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:65368] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 13:43:16.312603 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:65376] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 13:43:29.539232 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:65388] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 13:43:52.994905 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:65394] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 13:45:30.154301 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:65410] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 13:46:48.773901 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:65428] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 13:47:06.351990 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:65434] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 13:50:19.512885 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:65489] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 13:51:28.802541 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:65504] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/allot.php
+[Sat Mar 18 13:51:43.728208 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:65511] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 13:53:50.272206 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/allot.php
+[Sat Mar 18 13:53:53.761074 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 13:53:55.890214 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/exam.php
+[Sat Mar 18 13:53:57.355318 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 13:53:58.301554 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/room.php
+[Sat Mar 18 13:53:58.464882 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 13:53:58.502611 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 13:53:58.637927 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 13:54:00.768004 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49161] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_room.php
+[Sat Mar 18 13:54:55.698261 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 13:54:57.161162 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/room_type.php
+[Sat Mar 18 13:54:58.326866 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 13:54:58.359384 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 13:54:59.608164 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/save_teacher.php
+[Sat Mar 18 13:55:00.803244 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 13:55:00.845751 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 13:55:02.088507 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/save_student.php
+[Sat Mar 18 13:55:03.907496 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 13:55:03.940660 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 13:55:05.698612 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/save_subjects.php
+[Sat Mar 18 13:55:07.295340 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 13:55:07.315285 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 13:55:08.549254 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/save_class.php
+[Sat Mar 18 13:55:09.724000 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 13:55:09.736551 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 13:55:09.876795 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49202] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/login.php
+[Sat Mar 18 14:25:23.721568 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49374] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 14:25:23.721568 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49374] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 14:26:39.433659 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49401] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 14:26:47.404594 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49406] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/login.php
+[Sat Mar 18 14:27:10.274588 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49419] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 14:27:17.151796 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49426] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/add_teacher.php
+[Sat Mar 18 15:13:33.020575 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49569] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 15:16:30.130186 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49594] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 15:16:45.875862 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49600] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 15:16:45.883350 2023] [php7:notice] [pid 2800:tid 1912] [client ::1:49600] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 15:36:49.472688 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49694] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 15:36:54.184765 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49694] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 15:37:00.199319 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49701] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=8
+[Sat Mar 18 15:37:08.931741 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49710] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=8&&teacher_id=10
+[Sat Mar 18 15:37:09.193632 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49710] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=8&&teacher_id=10
+[Sat Mar 18 15:37:37.127669 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49728] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Sat Mar 18 15:37:37.129338 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49728] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 15:38:42.453063 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49760] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 15:38:46.810624 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49760] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 15:38:53.208082 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49761] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 15:38:56.030634 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49761] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment.php
+[Sat Mar 18 15:39:00.422338 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49761] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=9
+[Sat Mar 18 15:39:12.630540 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49770] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=9&&teacher_id=11
+[Sat Mar 18 15:39:12.882505 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49770] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=9&&teacher_id=11
+[Sat Mar 18 15:39:20.035761 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49783] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=9
+[Sat Mar 18 15:39:25.482039 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49792] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=9&&teacher_id=11
+[Sat Mar 18 15:39:25.730294 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49792] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_allotment_detail.php?id=9&&teacher_id=11
+[Sat Mar 18 15:41:51.732627 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49839] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/view_exam.php
+[Sat Mar 18 15:42:03.378372 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49844] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 15:42:17.936098 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49859] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 15:43:18.116923 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49865] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 15:44:15.450715 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49887] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/view_teacher.php
+[Sat Mar 18 15:44:38.921852 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49893] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_roomtype.php
+[Sat Mar 18 15:52:28.961551 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49985] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 15:52:53.767402 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49986] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 15:53:02.791479 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49991] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/
+[Sat Mar 18 15:53:05.750266 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:49991] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 15:53:30.158231 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:49996] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63
+[Sat Mar 18 15:54:14.042430 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:50018] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Mar 18 15:54:31.345092 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:50030] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/index.php
+[Sat Mar 18 15:54:40.739280 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:50037] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 15:55:14.060418 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:50051] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/ExamHall/view_class.php
+[Sat Mar 18 15:55:28.218517 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:50062] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/view_subject.php
+[Sat Mar 18 15:56:59.645862 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:50073] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Sat Mar 18 15:57:11.311287 2023] [php7:notice] [pid 2800:tid 1928] [client ::1:50074] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/ExamHall/add_teacher.php
+[Sat Mar 18 15:57:25.802905 2023] [php7:notice] [pid 2800:tid 1888] [client ::1:50084] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/ExamHall/view_roomtype.php
+[Sun Mar 19 18:50:13.222709 2023] [ssl:warn] [pid 11072:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 19 18:50:13.253955 2023] [core:warn] [pid 11072:tid 640] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 19 18:50:13.253955 2023] [ssl:warn] [pid 11072:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 19 18:50:13.519218 2023] [mpm_winnt:notice] [pid 11072:tid 640] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sun Mar 19 18:50:13.519218 2023] [mpm_winnt:notice] [pid 11072:tid 640] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sun Mar 19 18:50:13.519218 2023] [core:notice] [pid 11072:tid 640] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Mar 19 18:50:13.519218 2023] [mpm_winnt:notice] [pid 11072:tid 640] AH00418: Parent: Created child process 11144
+[Sun Mar 19 18:50:13.949676 2023] [ssl:warn] [pid 11144:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 19 18:50:13.981247 2023] [ssl:warn] [pid 11144:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 19 18:50:13.996905 2023] [mpm_winnt:notice] [pid 11144:tid 596] AH00354: Child: Starting 150 worker threads.
+[Sun Mar 19 18:50:51.808231 2023] [php7:warn] [pid 11144:tid 1880] [client ::1:49717] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sun Mar 19 18:50:53.005017 2023] [php7:warn] [pid 11144:tid 1872] [client ::1:49718] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sun Mar 19 18:50:53.901135 2023] [php7:warn] [pid 11144:tid 1864] [client ::1:49720] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sun Mar 19 18:50:54.085498 2023] [php7:warn] [pid 11144:tid 1860] [client ::1:49723] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sun Mar 19 18:51:41.732188 2023] [php7:warn] [pid 11144:tid 1852] [client ::1:49730] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sun Mar 26 19:37:54.468636 2023] [ssl:warn] [pid 9136:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 26 19:37:54.577383 2023] [core:warn] [pid 9136:tid 612] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 26 19:37:54.577383 2023] [ssl:warn] [pid 9136:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 26 19:37:55.174933 2023] [mpm_winnt:notice] [pid 9136:tid 612] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sun Mar 26 19:37:55.174933 2023] [mpm_winnt:notice] [pid 9136:tid 612] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sun Mar 26 19:37:55.174933 2023] [core:notice] [pid 9136:tid 612] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Mar 26 19:37:55.174933 2023] [mpm_winnt:notice] [pid 9136:tid 612] AH00418: Parent: Created child process 2448
+[Sun Mar 26 19:37:55.738495 2023] [ssl:warn] [pid 2448:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 26 19:37:55.816568 2023] [ssl:warn] [pid 2448:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Mar 26 19:37:55.879093 2023] [mpm_winnt:notice] [pid 2448:tid 440] AH00354: Child: Starting 150 worker threads.
+[Mon Mar 27 14:44:42.338297 2023] [ssl:warn] [pid 2224:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 14:44:42.369540 2023] [core:warn] [pid 2224:tid 624] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 27 14:44:42.369540 2023] [ssl:warn] [pid 2224:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 14:44:42.620179 2023] [mpm_winnt:notice] [pid 2224:tid 624] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Mon Mar 27 14:44:42.620179 2023] [mpm_winnt:notice] [pid 2224:tid 624] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Mar 27 14:44:42.620179 2023] [core:notice] [pid 2224:tid 624] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Mar 27 14:44:42.620179 2023] [mpm_winnt:notice] [pid 2224:tid 624] AH00418: Parent: Created child process 4872
+[Mon Mar 27 14:44:43.058704 2023] [ssl:warn] [pid 4872:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 14:44:43.089902 2023] [ssl:warn] [pid 4872:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 14:44:43.121184 2023] [mpm_winnt:notice] [pid 4872:tid 616] AH00354: Child: Starting 150 worker threads.
+[Mon Mar 27 18:02:24.963294 2023] [ssl:warn] [pid 11244:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:02:25.010191 2023] [core:warn] [pid 11244:tid 620] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 27 18:02:25.010191 2023] [ssl:warn] [pid 11244:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:02:25.244479 2023] [mpm_winnt:notice] [pid 11244:tid 620] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Mon Mar 27 18:02:25.244479 2023] [mpm_winnt:notice] [pid 11244:tid 620] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Mar 27 18:02:25.244479 2023] [core:notice] [pid 11244:tid 620] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Mar 27 18:02:25.244479 2023] [mpm_winnt:notice] [pid 11244:tid 620] AH00418: Parent: Created child process 10264
+[Mon Mar 27 18:02:25.666295 2023] [ssl:warn] [pid 10264:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:02:25.697561 2023] [ssl:warn] [pid 10264:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:02:25.728808 2023] [mpm_winnt:notice] [pid 10264:tid 592] AH00354: Child: Starting 150 worker threads.
+[Mon Mar 27 18:45:04.566981 2023] [ssl:warn] [pid 11396:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:45:04.655992 2023] [core:warn] [pid 11396:tid 592] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 27 18:45:04.661261 2023] [ssl:warn] [pid 11396:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:45:04.718857 2023] [mpm_winnt:notice] [pid 11396:tid 592] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Mon Mar 27 18:45:04.718857 2023] [mpm_winnt:notice] [pid 11396:tid 592] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Mar 27 18:45:04.718857 2023] [core:notice] [pid 11396:tid 592] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Mar 27 18:45:04.734435 2023] [mpm_winnt:notice] [pid 11396:tid 592] AH00418: Parent: Created child process 9768
+[Mon Mar 27 18:45:05.282900 2023] [ssl:warn] [pid 9768:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:45:05.330227 2023] [ssl:warn] [pid 9768:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 18:45:05.382581 2023] [mpm_winnt:notice] [pid 9768:tid 604] AH00354: Child: Starting 150 worker threads.
+[Mon Mar 27 19:18:51.633456 2023] [ssl:warn] [pid 1324:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 19:18:51.720120 2023] [core:warn] [pid 1324:tid 604] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 27 19:18:51.727633 2023] [ssl:warn] [pid 1324:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 19:18:51.787308 2023] [mpm_winnt:notice] [pid 1324:tid 604] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Mon Mar 27 19:18:51.787308 2023] [mpm_winnt:notice] [pid 1324:tid 604] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Mon Mar 27 19:18:51.787308 2023] [core:notice] [pid 1324:tid 604] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Mon Mar 27 19:18:51.790876 2023] [mpm_winnt:notice] [pid 1324:tid 604] AH00418: Parent: Created child process 6140
+[Mon Mar 27 19:18:52.453679 2023] [ssl:warn] [pid 6140:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 19:18:52.550427 2023] [ssl:warn] [pid 6140:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Mar 27 19:18:52.638776 2023] [mpm_winnt:notice] [pid 6140:tid 596] AH00354: Child: Starting 150 worker threads.
+[Mon Mar 27 19:19:08.369388 2023] [php7:notice] [pid 6140:tid 1940] [client ::1:49943] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Mon Mar 27 19:19:08.426324 2023] [php7:notice] [pid 6140:tid 1940] [client ::1:49943] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Mon Mar 27 19:32:16.686831 2023] [php7:notice] [pid 6140:tid 1916] [client ::1:49951] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Mon Mar 27 19:32:16.689345 2023] [php7:notice] [pid 6140:tid 1916] [client ::1:49951] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Apr 01 17:09:37.354604 2023] [ssl:warn] [pid 9304:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 01 17:09:37.463962 2023] [core:warn] [pid 9304:tid 680] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 01 17:09:37.463962 2023] [ssl:warn] [pid 9304:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 01 17:09:37.932596 2023] [mpm_winnt:notice] [pid 9304:tid 680] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Apr 01 17:09:37.932596 2023] [mpm_winnt:notice] [pid 9304:tid 680] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Apr 01 17:09:37.932596 2023] [core:notice] [pid 9304:tid 680] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Apr 01 17:09:37.932596 2023] [mpm_winnt:notice] [pid 9304:tid 680] AH00418: Parent: Created child process 4152
+[Sat Apr 01 17:09:38.463720 2023] [ssl:warn] [pid 4152:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 01 17:09:38.479341 2023] [ssl:warn] [pid 4152:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 01 17:09:38.526204 2023] [mpm_winnt:notice] [pid 4152:tid 616] AH00354: Child: Starting 150 worker threads.
+[Sat Apr 01 17:10:30.388662 2023] [php7:warn] [pid 4152:tid 1908] [client ::1:49717] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sat Apr 01 17:10:55.089752 2023] [php7:warn] [pid 4152:tid 1900] [client ::1:49718] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Sat Apr 01 17:12:59.141664 2023] [php7:notice] [pid 4152:tid 1908] [client ::1:49758] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/ExamHall/view_student.php
+[Tue Apr 11 15:39:40.544740 2023] [ssl:warn] [pid 11844:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 11 15:39:40.613725 2023] [core:warn] [pid 11844:tid 608] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 11 15:39:40.621726 2023] [ssl:warn] [pid 11844:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 11 15:39:41.247762 2023] [mpm_winnt:notice] [pid 11844:tid 608] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Apr 11 15:39:41.247762 2023] [mpm_winnt:notice] [pid 11844:tid 608] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Apr 11 15:39:41.247762 2023] [core:notice] [pid 11844:tid 608] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Apr 11 15:39:41.263592 2023] [mpm_winnt:notice] [pid 11844:tid 608] AH00418: Parent: Created child process 7160
+[Tue Apr 11 15:39:42.204686 2023] [ssl:warn] [pid 7160:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 11 15:39:42.281168 2023] [ssl:warn] [pid 7160:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Apr 11 15:39:42.325358 2023] [mpm_winnt:notice] [pid 7160:tid 620] AH00354: Child: Starting 150 worker threads.
+[Tue Apr 11 15:40:25.675037 2023] [php7:error] [pid 7160:tid 1916] [client ::1:49988] script 'C:/xampp/htdocs/ExamHall/admin.php' not found or unable to stat
+[Tue Apr 11 15:40:26.051374 2023] [php7:error] [pid 7160:tid 1916] [client ::1:49988] script 'C:/xampp/htdocs/ExamHall/admin.php' not found or unable to stat
+[Tue Apr 11 15:40:37.918616 2023] [php7:notice] [pid 7160:tid 1888] [client ::1:49989] PHP Notice:  Undefined index: id in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 3
+[Tue Apr 11 15:40:37.950529 2023] [php7:notice] [pid 7160:tid 1888] [client ::1:49989] PHP Notice:  Undefined index: username in C:\\xampp\\htdocs\\ExamHall\\sidebar.php on line 129
+[Sat Apr 15 13:58:28.446352 2023] [ssl:warn] [pid 10656:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 15 13:58:28.525588 2023] [core:warn] [pid 10656:tid 516] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 15 13:58:28.525588 2023] [ssl:warn] [pid 10656:tid 516] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 15 13:58:29.140675 2023] [mpm_winnt:notice] [pid 10656:tid 516] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Apr 15 13:58:29.140675 2023] [mpm_winnt:notice] [pid 10656:tid 516] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Apr 15 13:58:29.140675 2023] [core:notice] [pid 10656:tid 516] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Apr 15 13:58:29.156299 2023] [mpm_winnt:notice] [pid 10656:tid 516] AH00418: Parent: Created child process 10332
+[Sat Apr 15 13:58:29.734326 2023] [ssl:warn] [pid 10332:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 15 13:58:29.781220 2023] [ssl:warn] [pid 10332:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Apr 15 13:58:29.859556 2023] [mpm_winnt:notice] [pid 10332:tid 612] AH00354: Child: Starting 150 worker threads.
+[Thu May 04 08:11:40.117752 2023] [ssl:warn] [pid 11040:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 04 08:11:40.148995 2023] [core:warn] [pid 11040:tid 608] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 04 08:11:40.148995 2023] [ssl:warn] [pid 11040:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 04 08:11:40.399315 2023] [mpm_winnt:notice] [pid 11040:tid 608] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu May 04 08:11:40.399315 2023] [mpm_winnt:notice] [pid 11040:tid 608] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu May 04 08:11:40.399315 2023] [core:notice] [pid 11040:tid 608] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu May 04 08:11:40.399315 2023] [mpm_winnt:notice] [pid 11040:tid 608] AH00418: Parent: Created child process 11124
+[Thu May 04 08:11:40.789848 2023] [ssl:warn] [pid 11124:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 04 08:11:40.821618 2023] [ssl:warn] [pid 11124:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 04 08:11:40.868485 2023] [mpm_winnt:notice] [pid 11124:tid 628] AH00354: Child: Starting 150 worker threads.
+[Thu May 04 08:12:14.642492 2023] [php7:error] [pid 11124:tid 1936] [client ::1:49720] script 'C:/xampp/htdocs/ExamHall/admin.php' not found or unable to stat
+[Thu May 04 08:13:50.165342 2023] [php7:notice] [pid 11124:tid 1916] [client ::1:49765] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/index.php
+[Thu May 04 08:15:43.163164 2023] [php7:notice] [pid 11124:tid 1916] [client ::1:49782] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Thu May 04 08:18:13.629208 2023] [php7:notice] [pid 11124:tid 1936] [client ::1:49816] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/save_teacher.php
+[Thu May 04 08:18:15.951497 2023] [php7:notice] [pid 11124:tid 1936] [client ::1:49816] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/view_student.php
+[Thu May 04 08:18:15.979807 2023] [php7:notice] [pid 11124:tid 1936] [client ::1:49816] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/ExamHall/view_student.php
+[Thu May 04 08:18:23.700211 2023] [php7:notice] [pid 11124:tid 1916] [client ::1:49823] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/pages/save_student.php
+[Thu May 04 08:18:25.410166 2023] [php7:notice] [pid 11124:tid 1916] [client ::1:49823] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/index.php
+[Thu May 04 08:18:25.422715 2023] [php7:notice] [pid 11124:tid 1916] [client ::1:49823] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/ExamHall/index.php
+[Thu May 04 08:18:26.931778 2023] [php7:notice] [pid 11124:tid 1916] [client ::1:49823] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/ExamHall/login.php
+[Thu May 04 08:19:30.215343 2023] [php7:notice] [pid 11124:tid 1936] [client ::1:49875] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_teacher.php on line 112, referer: http://localhost/ExamHall/view_teacher.php
+[Tue Feb 06 09:30:02.819375 2024] [ssl:warn] [pid 12388:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:02.850259 2024] [core:warn] [pid 12388:tid 620] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 09:30:02.852252 2024] [ssl:warn] [pid 12388:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:03.195334 2024] [mpm_winnt:notice] [pid 12388:tid 620] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Feb 06 09:30:03.195334 2024] [mpm_winnt:notice] [pid 12388:tid 620] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Feb 06 09:30:03.195334 2024] [core:notice] [pid 12388:tid 620] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 06 09:30:03.199326 2024] [mpm_winnt:notice] [pid 12388:tid 620] AH00418: Parent: Created child process 6644
+[Tue Feb 06 09:30:03.596261 2024] [ssl:warn] [pid 6644:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:03.627180 2024] [ssl:warn] [pid 6644:tid 400] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:03.652148 2024] [mpm_winnt:notice] [pid 6644:tid 400] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 06 09:30:49.209851 2024] [mpm_winnt:crit] [pid 6644:tid 400] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 09:30:51.259399 2024] [ssl:warn] [pid 5692:tid 180] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:51.288288 2024] [core:warn] [pid 5692:tid 180] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 09:30:51.290281 2024] [ssl:warn] [pid 5692:tid 180] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:51.311225 2024] [mpm_winnt:notice] [pid 5692:tid 180] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Feb 06 09:30:51.311225 2024] [mpm_winnt:notice] [pid 5692:tid 180] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Feb 06 09:30:51.311225 2024] [core:notice] [pid 5692:tid 180] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 06 09:30:51.314217 2024] [mpm_winnt:notice] [pid 5692:tid 180] AH00418: Parent: Created child process 10784
+[Tue Feb 06 09:30:51.714147 2024] [ssl:warn] [pid 10784:tid 220] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:51.744102 2024] [ssl:warn] [pid 10784:tid 220] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:51.767038 2024] [mpm_winnt:notice] [pid 10784:tid 220] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 06 09:30:51.896659 2024] [mpm_winnt:crit] [pid 10784:tid 220] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Feb 06 09:30:53.416937 2024] [ssl:warn] [pid 9624:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:53.465769 2024] [core:warn] [pid 9624:tid 624] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Feb 06 09:30:53.467763 2024] [ssl:warn] [pid 9624:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:53.488707 2024] [mpm_winnt:notice] [pid 9624:tid 624] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Feb 06 09:30:53.488707 2024] [mpm_winnt:notice] [pid 9624:tid 624] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Feb 06 09:30:53.488707 2024] [core:notice] [pid 9624:tid 624] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Feb 06 09:30:53.492701 2024] [mpm_winnt:notice] [pid 9624:tid 624] AH00418: Parent: Created child process 14292
+[Tue Feb 06 09:30:53.888636 2024] [ssl:warn] [pid 14292:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:53.917559 2024] [ssl:warn] [pid 14292:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Feb 06 09:30:53.939501 2024] [mpm_winnt:notice] [pid 14292:tid 632] AH00354: Child: Starting 150 worker threads.
+[Tue Feb 06 09:30:54.064170 2024] [mpm_winnt:crit] [pid 14292:tid 632] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Feb 07 09:30:46.165355 2024] [ssl:warn] [pid 15452:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 09:30:46.197219 2024] [core:warn] [pid 15452:tid 612] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 07 09:30:46.199214 2024] [ssl:warn] [pid 15452:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 09:30:46.527337 2024] [mpm_winnt:notice] [pid 15452:tid 612] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Wed Feb 07 09:30:46.527337 2024] [mpm_winnt:notice] [pid 15452:tid 612] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Wed Feb 07 09:30:46.527337 2024] [core:notice] [pid 15452:tid 612] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 07 09:30:46.531326 2024] [mpm_winnt:notice] [pid 15452:tid 612] AH00418: Parent: Created child process 14528
+[Wed Feb 07 09:30:46.952201 2024] [ssl:warn] [pid 14528:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 09:30:46.983159 2024] [ssl:warn] [pid 14528:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 09:30:47.005060 2024] [mpm_winnt:notice] [pid 14528:tid 668] AH00354: Child: Starting 150 worker threads.
+[Wed Feb 07 21:53:19.263327 2024] [ssl:warn] [pid 15432:tid 100] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 21:53:19.333458 2024] [core:warn] [pid 15432:tid 100] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 07 21:53:19.337448 2024] [ssl:warn] [pid 15432:tid 100] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 21:53:20.059004 2024] [mpm_winnt:notice] [pid 15432:tid 100] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Wed Feb 07 21:53:20.059004 2024] [mpm_winnt:notice] [pid 15432:tid 100] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Wed Feb 07 21:53:20.059004 2024] [core:notice] [pid 15432:tid 100] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 07 21:53:20.066934 2024] [mpm_winnt:notice] [pid 15432:tid 100] AH00418: Parent: Created child process 15668
+[Wed Feb 07 21:53:20.654581 2024] [ssl:warn] [pid 15668:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 21:53:20.702811 2024] [ssl:warn] [pid 15668:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 21:53:20.740582 2024] [mpm_winnt:notice] [pid 15668:tid 596] AH00354: Child: Starting 150 worker threads.
+[Wed Feb 07 22:22:30.251342 2024] [ssl:warn] [pid 12024:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 22:22:30.304382 2024] [core:warn] [pid 12024:tid 632] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 07 22:22:30.309303 2024] [ssl:warn] [pid 12024:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 22:22:30.353811 2024] [mpm_winnt:notice] [pid 12024:tid 632] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Wed Feb 07 22:22:30.353811 2024] [mpm_winnt:notice] [pid 12024:tid 632] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Wed Feb 07 22:22:30.353811 2024] [core:notice] [pid 12024:tid 632] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed Feb 07 22:22:30.360750 2024] [mpm_winnt:notice] [pid 12024:tid 632] AH00418: Parent: Created child process 15064
+[Wed Feb 07 22:22:31.043011 2024] [ssl:warn] [pid 15064:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 22:22:31.116151 2024] [ssl:warn] [pid 15064:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Feb 07 22:22:31.168013 2024] [mpm_winnt:notice] [pid 15064:tid 628] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 19:21:52.205887 2024] [ssl:warn] [pid 11412:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:21:52.284151 2024] [core:warn] [pid 11412:tid 588] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 19:21:52.284151 2024] [ssl:warn] [pid 11412:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:21:52.940419 2024] [mpm_winnt:notice] [pid 11412:tid 588] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 19:21:52.940419 2024] [mpm_winnt:notice] [pid 11412:tid 588] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 19:21:52.940419 2024] [core:notice] [pid 11412:tid 588] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 19:21:52.956041 2024] [mpm_winnt:notice] [pid 11412:tid 588] AH00418: Parent: Created child process 10608
+[Thu Feb 08 19:21:53.653790 2024] [ssl:warn] [pid 10608:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:21:53.710374 2024] [ssl:warn] [pid 10608:tid 440] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:21:53.757642 2024] [mpm_winnt:notice] [pid 10608:tid 440] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 19:39:30.900964 2024] [ssl:warn] [pid 12380:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:39:30.972781 2024] [core:warn] [pid 12380:tid 452] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 19:39:30.976250 2024] [ssl:warn] [pid 12380:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:39:31.632908 2024] [mpm_winnt:notice] [pid 12380:tid 452] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 19:39:31.632908 2024] [mpm_winnt:notice] [pid 12380:tid 452] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 19:39:31.632908 2024] [core:notice] [pid 12380:tid 452] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 19:39:31.638825 2024] [mpm_winnt:notice] [pid 12380:tid 452] AH00418: Parent: Created child process 7144
+[Thu Feb 08 19:39:32.555112 2024] [ssl:warn] [pid 7144:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:39:32.619925 2024] [ssl:warn] [pid 7144:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:39:32.671619 2024] [mpm_winnt:notice] [pid 7144:tid 624] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 19:41:27.126026 2024] [ssl:warn] [pid 4160:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:41:27.202632 2024] [core:warn] [pid 4160:tid 512] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 19:41:27.206618 2024] [ssl:warn] [pid 4160:tid 512] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:41:27.257379 2024] [mpm_winnt:notice] [pid 4160:tid 512] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 19:41:27.257379 2024] [mpm_winnt:notice] [pid 4160:tid 512] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 19:41:27.257379 2024] [core:notice] [pid 4160:tid 512] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 19:41:27.264355 2024] [mpm_winnt:notice] [pid 4160:tid 512] AH00418: Parent: Created child process 11132
+[Thu Feb 08 19:41:27.949987 2024] [ssl:warn] [pid 11132:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:41:28.009464 2024] [ssl:warn] [pid 11132:tid 652] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:41:28.047468 2024] [mpm_winnt:notice] [pid 11132:tid 652] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 19:45:33.833994 2024] [ssl:warn] [pid 8568:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:45:33.922318 2024] [core:warn] [pid 8568:tid 596] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 19:45:33.925892 2024] [ssl:warn] [pid 8568:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:45:33.974415 2024] [mpm_winnt:notice] [pid 8568:tid 596] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 19:45:33.974415 2024] [mpm_winnt:notice] [pid 8568:tid 596] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 19:45:33.974415 2024] [core:notice] [pid 8568:tid 596] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 19:45:33.981346 2024] [mpm_winnt:notice] [pid 8568:tid 596] AH00418: Parent: Created child process 12516
+[Thu Feb 08 19:45:34.651744 2024] [ssl:warn] [pid 12516:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:45:34.698690 2024] [ssl:warn] [pid 12516:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 19:45:34.729141 2024] [mpm_winnt:notice] [pid 12516:tid 592] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 20:06:48.797230 2024] [ssl:warn] [pid 8720:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:06:48.881786 2024] [core:warn] [pid 8720:tid 448] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 20:06:48.884778 2024] [ssl:warn] [pid 8720:tid 448] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:06:48.929956 2024] [mpm_winnt:notice] [pid 8720:tid 448] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 20:06:48.929956 2024] [mpm_winnt:notice] [pid 8720:tid 448] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 20:06:48.929956 2024] [core:notice] [pid 8720:tid 448] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 20:06:48.936890 2024] [mpm_winnt:notice] [pid 8720:tid 448] AH00418: Parent: Created child process 5192
+[Thu Feb 08 20:06:49.776370 2024] [ssl:warn] [pid 5192:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:06:49.829535 2024] [ssl:warn] [pid 5192:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:06:49.876178 2024] [mpm_winnt:notice] [pid 5192:tid 620] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 20:18:34.686444 2024] [ssl:warn] [pid 2792:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:18:34.758124 2024] [core:warn] [pid 2792:tid 592] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 20:18:34.760118 2024] [ssl:warn] [pid 2792:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:18:34.791450 2024] [mpm_winnt:notice] [pid 2792:tid 592] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 20:18:34.791450 2024] [mpm_winnt:notice] [pid 2792:tid 592] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 20:18:34.791450 2024] [core:notice] [pid 2792:tid 592] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 20:18:34.796402 2024] [mpm_winnt:notice] [pid 2792:tid 592] AH00418: Parent: Created child process 8828
+[Thu Feb 08 20:18:35.419141 2024] [ssl:warn] [pid 8828:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:18:35.477398 2024] [ssl:warn] [pid 8828:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:18:35.512935 2024] [mpm_winnt:notice] [pid 8828:tid 604] AH00354: Child: Starting 150 worker threads.
+[Thu Feb 08 20:35:26.090445 2024] [ssl:warn] [pid 6396:tid 172] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:35:26.139828 2024] [core:warn] [pid 6396:tid 172] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Feb 08 20:35:26.144815 2024] [ssl:warn] [pid 6396:tid 172] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:35:26.703364 2024] [mpm_winnt:notice] [pid 6396:tid 172] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Thu Feb 08 20:35:26.703364 2024] [mpm_winnt:notice] [pid 6396:tid 172] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu Feb 08 20:35:26.703364 2024] [core:notice] [pid 6396:tid 172] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu Feb 08 20:35:26.709311 2024] [mpm_winnt:notice] [pid 6396:tid 172] AH00418: Parent: Created child process 1964
+[Thu Feb 08 20:35:27.287287 2024] [ssl:warn] [pid 1964:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:35:27.381609 2024] [ssl:warn] [pid 1964:tid 428] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Feb 08 20:35:27.456391 2024] [mpm_winnt:notice] [pid 1964:tid 428] AH00354: Child: Starting 150 worker threads.
+[Fri Feb 09 11:20:10.904471 2024] [ssl:warn] [pid 8708:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 11:20:10.972562 2024] [core:warn] [pid 8708:tid 604] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Feb 09 11:20:10.978259 2024] [ssl:warn] [pid 8708:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 11:20:11.644535 2024] [mpm_winnt:notice] [pid 8708:tid 604] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Fri Feb 09 11:20:11.644535 2024] [mpm_winnt:notice] [pid 8708:tid 604] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Fri Feb 09 11:20:11.644535 2024] [core:notice] [pid 8708:tid 604] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Fri Feb 09 11:20:11.651572 2024] [mpm_winnt:notice] [pid 8708:tid 604] AH00418: Parent: Created child process 8624
+[Fri Feb 09 11:20:12.261415 2024] [ssl:warn] [pid 8624:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 11:20:12.330539 2024] [ssl:warn] [pid 8624:tid 452] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Feb 09 11:20:12.382896 2024] [mpm_winnt:notice] [pid 8624:tid 452] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 10 09:13:06.259881 2024] [ssl:warn] [pid 5588:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 10 09:13:06.344187 2024] [core:warn] [pid 5588:tid 656] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Feb 10 09:13:06.354220 2024] [ssl:warn] [pid 5588:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 10 09:13:06.980962 2024] [mpm_winnt:notice] [pid 5588:tid 656] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Sat Feb 10 09:13:06.980962 2024] [mpm_winnt:notice] [pid 5588:tid 656] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat Feb 10 09:13:06.980962 2024] [core:notice] [pid 5588:tid 656] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Feb 10 09:13:06.987837 2024] [mpm_winnt:notice] [pid 5588:tid 656] AH00418: Parent: Created child process 11548
+[Sat Feb 10 09:13:08.062290 2024] [ssl:warn] [pid 11548:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 10 09:13:08.235240 2024] [ssl:warn] [pid 11548:tid 592] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Feb 10 09:13:08.325833 2024] [mpm_winnt:notice] [pid 11548:tid 592] AH00354: Child: Starting 150 worker threads.
+[Sat Feb 10 09:15:27.649246 2024] [php7:notice] [pid 11548:tid 1908] [client ::1:49900] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/index.php
+[Sat Feb 10 09:15:52.608962 2024] [php7:notice] [pid 11548:tid 1900] [client ::1:49908] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/add_teacher.php
+[Sat Feb 10 09:16:21.437375 2024] [php7:notice] [pid 11548:tid 1908] [client ::1:49921] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_subject.php
+[Sat Feb 10 09:17:39.191662 2024] [php7:notice] [pid 11548:tid 1908] [client ::1:49973] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/view_teacher.php
+[Sat Feb 10 09:18:59.264701 2024] [php7:notice] [pid 11548:tid 1908] [client ::1:49998] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/view_student.php
+[Sat Feb 10 09:19:28.769447 2024] [php7:notice] [pid 11548:tid 1908] [client ::1:50010] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_roomtype.php
+[Sat Feb 10 09:19:48.530023 2024] [php7:notice] [pid 11548:tid 1908] [client ::1:50032] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Sat Feb 10 09:19:54.926705 2024] [php7:notice] [pid 11548:tid 1900] [client ::1:50033] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/add_room.php
+[Sat Feb 10 09:19:58.745217 2024] [php7:notice] [pid 11548:tid 1900] [client ::1:50033] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/add_roomtype.php
+[Sat Feb 10 09:21:24.267114 2024] [php7:notice] [pid 11548:tid 1900] [client ::1:50048] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_room.php
+[Tue Mar 12 17:55:03.739231 2024] [ssl:warn] [pid 12596:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 17:55:03.812884 2024] [core:warn] [pid 12596:tid 576] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 12 17:55:03.817975 2024] [ssl:warn] [pid 12596:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 17:55:04.427955 2024] [mpm_winnt:notice] [pid 12596:tid 576] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Mar 12 17:55:04.427955 2024] [mpm_winnt:notice] [pid 12596:tid 576] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Mar 12 17:55:04.427955 2024] [core:notice] [pid 12596:tid 576] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Mar 12 17:55:04.434937 2024] [mpm_winnt:notice] [pid 12596:tid 576] AH00418: Parent: Created child process 17084
+[Tue Mar 12 17:55:05.192637 2024] [ssl:warn] [pid 17084:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 17:55:05.243691 2024] [ssl:warn] [pid 17084:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 17:55:05.291212 2024] [mpm_winnt:notice] [pid 17084:tid 604] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 12 20:31:05.806596 2024] [ssl:warn] [pid 7140:tid 664] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:31:05.841501 2024] [core:warn] [pid 7140:tid 664] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 12 20:31:05.843525 2024] [ssl:warn] [pid 7140:tid 664] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:31:06.178706 2024] [mpm_winnt:notice] [pid 7140:tid 664] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Mar 12 20:31:06.178706 2024] [mpm_winnt:notice] [pid 7140:tid 664] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Mar 12 20:31:06.178706 2024] [core:notice] [pid 7140:tid 664] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Mar 12 20:31:06.182657 2024] [mpm_winnt:notice] [pid 7140:tid 664] AH00418: Parent: Created child process 2844
+[Tue Mar 12 20:31:06.688304 2024] [ssl:warn] [pid 2844:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:31:06.723251 2024] [ssl:warn] [pid 2844:tid 616] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:31:06.747196 2024] [mpm_winnt:notice] [pid 2844:tid 616] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 12 20:31:29.482398 2024] [php7:warn] [pid 2844:tid 1948] [client ::1:50904] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Tue Mar 12 20:31:51.678953 2024] [php7:warn] [pid 2844:tid 1932] [client ::1:50905] PHP Warning:  mysqli_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.\r\n in C:\\xampp\\htdocs\\ExamHall\\connect.php on line 10
+[Tue Mar 12 20:32:04.687041 2024] [mpm_winnt:crit] [pid 2844:tid 616] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Mar 12 20:32:06.784257 2024] [ssl:warn] [pid 14656:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:06.817213 2024] [core:warn] [pid 14656:tid 588] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 12 20:32:06.819162 2024] [ssl:warn] [pid 14656:tid 588] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:06.841103 2024] [mpm_winnt:notice] [pid 14656:tid 588] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Mar 12 20:32:06.841103 2024] [mpm_winnt:notice] [pid 14656:tid 588] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Mar 12 20:32:06.841103 2024] [core:notice] [pid 14656:tid 588] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Mar 12 20:32:06.844096 2024] [mpm_winnt:notice] [pid 14656:tid 588] AH00418: Parent: Created child process 13092
+[Tue Mar 12 20:32:07.241033 2024] [ssl:warn] [pid 13092:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:07.272947 2024] [ssl:warn] [pid 13092:tid 612] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:07.294889 2024] [mpm_winnt:notice] [pid 13092:tid 612] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 12 20:32:22.661561 2024] [mpm_winnt:crit] [pid 13092:tid 612] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Mar 12 20:32:23.606364 2024] [ssl:warn] [pid 1212:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:23.655201 2024] [core:warn] [pid 1212:tid 644] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 12 20:32:23.657194 2024] [ssl:warn] [pid 1212:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:23.679173 2024] [mpm_winnt:notice] [pid 1212:tid 644] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Mar 12 20:32:23.679173 2024] [mpm_winnt:notice] [pid 1212:tid 644] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Mar 12 20:32:23.679173 2024] [core:notice] [pid 1212:tid 644] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Mar 12 20:32:23.683125 2024] [mpm_winnt:notice] [pid 1212:tid 644] AH00418: Parent: Created child process 8892
+[Tue Mar 12 20:32:24.095023 2024] [ssl:warn] [pid 8892:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:24.145887 2024] [ssl:warn] [pid 8892:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:24.175808 2024] [mpm_winnt:notice] [pid 8892:tid 608] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 12 20:32:36.639131 2024] [ssl:warn] [pid 9320:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:36.690993 2024] [core:warn] [pid 9320:tid 608] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 12 20:32:36.691990 2024] [ssl:warn] [pid 9320:tid 608] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:36.713968 2024] [mpm_winnt:notice] [pid 9320:tid 608] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Mar 12 20:32:36.713968 2024] [mpm_winnt:notice] [pid 9320:tid 608] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Mar 12 20:32:36.713968 2024] [core:notice] [pid 9320:tid 608] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Mar 12 20:32:36.716924 2024] [mpm_winnt:notice] [pid 9320:tid 608] AH00418: Parent: Created child process 8584
+[Tue Mar 12 20:32:37.247503 2024] [ssl:warn] [pid 8584:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:37.278420 2024] [ssl:warn] [pid 8584:tid 596] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:32:37.300362 2024] [mpm_winnt:notice] [pid 8584:tid 596] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 12 20:46:43.737903 2024] [ssl:warn] [pid 4528:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:46:43.788768 2024] [core:warn] [pid 4528:tid 624] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 12 20:46:43.789764 2024] [ssl:warn] [pid 4528:tid 624] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:46:43.812739 2024] [mpm_winnt:notice] [pid 4528:tid 624] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.2.27 configured -- resuming normal operations
+[Tue Mar 12 20:46:43.812739 2024] [mpm_winnt:notice] [pid 4528:tid 624] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue Mar 12 20:46:43.812739 2024] [core:notice] [pid 4528:tid 624] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue Mar 12 20:46:43.816693 2024] [mpm_winnt:notice] [pid 4528:tid 624] AH00418: Parent: Created child process 13040
+[Tue Mar 12 20:46:44.222643 2024] [ssl:warn] [pid 13040:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:46:44.253523 2024] [ssl:warn] [pid 13040:tid 604] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Mar 12 20:46:44.276499 2024] [mpm_winnt:notice] [pid 13040:tid 604] AH00354: Child: Starting 150 worker threads.
+[Tue Mar 12 20:48:03.663849 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51103] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/index.php
+[Tue Mar 12 20:48:19.724052 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51109] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 20:48:39.332321 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51126] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_class.php on line 73, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 20:48:49.664591 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51144] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 20:49:17.591095 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51150] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 20:49:24.147979 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51150] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 20:50:12.675977 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51174] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 20:51:36.594457 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51186] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 20:51:47.334664 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51206] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 20:52:04.509761 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51207] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 20:52:13.065895 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51231] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 20:52:51.047505 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51237] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/examhall/view_room.php
+[Tue Mar 12 20:53:00.504614 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:51256] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 20:55:47.390109 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51355] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_allotment_detail.php?id=14
+[Tue Mar 12 20:55:53.690905 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51355] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 20:55:58.599600 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51355] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 20:56:09.936906 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51389] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/examhall/view_room.php
+[Tue Mar 12 20:56:20.743313 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:51408] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 20:59:29.437136 2024] [php7:error] [pid 13040:tid 1908] [client ::1:51751] script 'C:/xampp/htdocs/student.php' not found or unable to stat
+[Tue Mar 12 21:11:19.686663 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52096] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/examhall/teacher_panel.php
+[Tue Mar 12 21:13:06.342302 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52205] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/index.php
+[Tue Mar 12 21:13:16.298755 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52227] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_class.php on line 73, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 21:13:22.352699 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52248] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 21:13:34.694936 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52250] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:13:42.161431 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52256] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:14:55.467548 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52291] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 21:16:03.909720 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52299] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:16:11.129169 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52299] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:16:21.924089 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52321] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 21:16:26.540946 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52321] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 21:16:38.252034 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52323] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/examhall/view_room.php
+[Tue Mar 12 21:17:02.390026 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52368] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:18:11.330535 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52391] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/add_exam.php
+[Tue Mar 12 21:18:27.838317 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52393] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:18:39.392829 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52407] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:18:45.789841 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52407] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:21:57.408004 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52510] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/index.php
+[Tue Mar 12 21:22:13.094712 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52514] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_class.php on line 73, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 21:22:19.167181 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52514] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 21:22:30.112864 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52541] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:22:36.500957 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52541] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:23:49.918339 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52572] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_teacher.php on line 112, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 21:24:04.591706 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52581] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_teacher.php on line 112, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 21:24:10.932697 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52581] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:24:14.717457 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52581] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/add_student.php
+[Tue Mar 12 21:25:28.941146 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52614] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:25:39.952535 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52621] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:25:49.916925 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52637] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 21:25:55.405877 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52639] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 21:26:14.558185 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52662] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/examhall/view_room.php
+[Tue Mar 12 21:29:28.097919 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52798] PHP Notice:  Undefined variable: image in C:\\xampp\\htdocs\\ExamHall\\header.php on line 63, referer: http://localhost/examhall/teacher_panel.php
+[Tue Mar 12 21:32:35.639926 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52859] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/index.php
+[Tue Mar 12 21:33:13.103255 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52876] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_class.php on line 73, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 21:33:23.312279 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52890] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 21:33:36.669277 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52896] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:33:46.084666 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52916] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 21:33:52.823004 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52916] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 21:35:24.089644 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52935] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_teacher.php on line 112, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 21:35:33.676622 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:52940] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 21:36:48.098012 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52967] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:36:59.544253 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52981] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 21:37:26.820576 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:52987] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 21:37:34.932163 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53007] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 21:37:50.994970 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:53009] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/examhall/view_room.php
+[Tue Mar 12 22:07:19.308972 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53628] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_class.php on line 36, referer: http://localhost/examhall/index.php
+[Tue Mar 12 22:07:38.175866 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53635] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_class.php on line 73, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 22:07:51.729258 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:53642] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_subject.php on line 35, referer: http://localhost/examhall/view_class.php
+[Tue Mar 12 22:08:20.221568 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:53661] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_subject.php on line 80, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 22:08:28.311722 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53667] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_teacher.php on line 39, referer: http://localhost/examhall/view_subject.php
+[Tue Mar 12 22:09:31.936387 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53687] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_teacher.php on line 112, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 22:09:39.736831 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53687] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_student.php on line 39, referer: http://localhost/examhall/view_teacher.php
+[Tue Mar 12 22:11:01.388863 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53712] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_student.php on line 111, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 22:11:12.609560 2024] [php7:notice] [pid 13040:tid 1912] [client ::1:53731] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_roomtype.php on line 36, referer: http://localhost/examhall/view_student.php
+[Tue Mar 12 22:11:28.432705 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53732] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_roomtype.php on line 73, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 22:11:33.908249 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53732] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\add_room.php on line 35, referer: http://localhost/examhall/view_roomtype.php
+[Tue Mar 12 22:11:52.471636 2024] [php7:notice] [pid 13040:tid 1908] [client ::1:53759] PHP Notice:  Undefined variable: currnt_date in C:\\xampp\\htdocs\\ExamHall\\edit_room.php on line 80, referer: http://localhost/examhall/view_room.php
